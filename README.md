@@ -1,0 +1,2 @@
+# awsprof
+AWS Profile Switcher
